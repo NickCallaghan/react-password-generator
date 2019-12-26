@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Secure Password Generator
+
+Secure password generator is a simple react app with generates secure random passwords. Prime react components were used in this project.
+
+To install the project dependencies in the root directory run:
+
+### `npm i`
+
 ## Available Scripts
 
 In the project directory, you can run:
